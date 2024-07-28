@@ -25,7 +25,7 @@ I’m Ashil George James, a second-year B.Tech Computer Science student at Saint
 - Mavelikara, Alappuzha, Kerala, Pin: 690101
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrutha-ajish-achuthan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashil-george-james/) 
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,8 +59,8 @@ I’m Ashil George James, a second-year B.Tech Computer Science student at Saint
 
 ## 🏆 Achievements and Activities
 
-- **Capture The Flag Competition** by UST  
-  *February 2024*
+- **#1 GeeksForGeeks at SaintgitsCollegeOfEngineering (DSA)**  
+  *July 2024*
   
 - **K-Disc YIP Idea Submission**  
   *February 2024*
@@ -68,12 +68,6 @@ I’m Ashil George James, a second-year B.Tech Computer Science student at Saint
 - **First Prize in Saintgits AI Quiz**  
   *December 2023*
 
-- **Second Prize in Saintgits Exponentia’23**  
-  *December 2023*
-
-- **IELTS**  
-  - Score: 8 Bands  
-  *August 2023*
 
 ## 🧠 Workshops and Seminars
 
