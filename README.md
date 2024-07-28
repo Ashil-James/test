@@ -1,20 +1,22 @@
 # John Doe
 
-**Email:** [john.doe@example.com]()  
-**Phone:** (123) 456-7890  
-**LinkedIn:** []()  
-**GitHub:** []()  
-**Website:** [johndoe.com]()
+<img src="https://example.com/photo.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
+
+**Email:** <span style="color: blue;">[john.doe@example.com](mailto:john.doe@example.com)</span>  
+**Phone:** <span style="color: blue;">(123) 456-7890</span>  
+**LinkedIn:** [<span style="color: blue;">linkedin.com/in/johndoe</span>](https://linkedin.com/in/johndoe)  
+**GitHub:** [<span style="color: blue;">github.com/johndoe</span>](https://github.com/johndoe)  
+**Website:** [<span style="color: blue;">johndoe.com</span>](https://johndoe.com)
 
 ---
 
-## **Summary**
+## **<span style="color: darkred;">Summary</span>**
 
 Highly motivated software engineer with 5+ years of experience in full-stack development. Skilled in JavaScript, Python, and Java, with a strong background in web development, cloud computing, and data analysis. Passionate about building scalable and efficient software solutions.
 
 ---
 
-## **Experience**
+## **<span style="color: darkred;">Experience</span>**
 
 ### **Senior Software Engineer**  
 **Tech Solutions Inc.**  
@@ -36,7 +38,7 @@ Highly motivated software engineer with 5+ years of experience in full-stack dev
 
 ---
 
-## **Education**
+## **<span style="color: darkred;">Education</span>**
 
 ### **Bachelor of Science in Computer Science**  
 **State University**  
@@ -47,7 +49,7 @@ Highly motivated software engineer with 5+ years of experience in full-stack dev
 
 ---
 
-## **Skills**
+## **<span style="color: darkred;">Skills</span>**
 
 - **Programming Languages:** JavaScript, Python, Java, C++
 - **Web Technologies:** HTML, CSS, React, Angular, Node.js
@@ -57,7 +59,7 @@ Highly motivated software engineer with 5+ years of experience in full-stack dev
 
 ---
 
-## **Projects**
+## **<span style="color: darkred;">Projects</span>**
 
 ### **Personal Portfolio Website**
 
@@ -71,14 +73,14 @@ Highly motivated software engineer with 5+ years of experience in full-stack dev
 
 ---
 
-## **Certifications**
+## **<span style="color: darkred;">Certifications</span>**
 
 - **Certified Kubernetes Administrator (CKA)** – Cloud Native Computing Foundation, 2021
 - **AWS Certified Solutions Architect – Associate** – Amazon Web Services, 2020
 
 ---
 
-## **Activities**
+## **<span style="color: darkred;">Activities</span>**
 
 - **Volunteer Developer** – Code for Good, 2019 – Present
 - **Member** – Tech Meetup Group, 2018 – Present
