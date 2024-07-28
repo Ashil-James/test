@@ -39,13 +39,13 @@ I’m Ashil George James, a second-year B.Tech Computer Science student at Saint
   - 2nd Sem CGPA: 9.79/10
 
 - **Class 12th**  
-  Bishop Moore Vidyapith, Mavelikara, Alappuzha, Kerala  
+  Bishop Moore Vidyapith, Mavelikara, Alappuzha, Kerala
   *March 2022 – May 2023*  
   - Marks: 92%
 
 - **Class 10th**  
   Bishop Moore Vidyapith, Mavelikara,Kerala
-  *June 2020 – March 2021*  
+   *June 2020 – March 2021*  
   - Marks: 95%
 
 ## 🛠️ Projects
@@ -65,23 +65,19 @@ I’m Ashil George James, a second-year B.Tech Computer Science student at Saint
 - **K-Disc YIP Idea Submission**  
   *February 2024*
 
-- **First Prize in Saintgits AI Quiz**  
-  *December 2023*
-
 
 ## 🧠 Workshops and Seminars
 
- **NPTEL - Python for data science**  
+ - **NPTEL - Python for data science**  
   *July 2024*
 
 - **WorkShop on Gen-AI**  
   *April 2024*
 
-   **workshop on Network essentials**  
+ - **workshop on Network essentials**  
   *November 2023*
 
-
-- **Project Management Institute – WINGS 2023 Conclave**  
+ - **Project Management Institute – WINGS 2023 Conclave**  
   *September 2023*
 
   
